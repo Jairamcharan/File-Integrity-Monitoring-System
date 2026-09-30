@@ -43,14 +43,5 @@ python fim.py check sample_data
 
 You can also add or delete a file inside `sample_data` and run the check again.
 
-## Important limitation
 
-This is an educational project. A real enterprise FIM solution would normally include secure baseline storage, access control, logging, alerting, scheduling, and centralized monitoring.
 
-## Suggested GitHub repository title
-
-`python-file-integrity-monitor`
-
-## Suggested LinkedIn project title
-
-**File Integrity Monitoring System | Python Cybersecurity Project**
